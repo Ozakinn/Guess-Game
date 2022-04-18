@@ -1,5 +1,12 @@
-# Guess-Game
+<p align="center">
+  <img width="auto" height="auto" src="/GameFootage/title.png">
+</p>
+
+<h1 align="center">
+Guess Game
+</h1>
 A simple python guessing game using emoji. Find the hidden emoji/object among the boxes. Harder dfficulty means more boxes and less life.
+
 
 ## Instructions
 
@@ -24,9 +31,9 @@ A simple python guessing game using emoji. Find the hidden emoji/object among th
 
 •	Believe in your lucky charm and start guessing the boxes based on their given numbers.
 
-![Take note of the info displayed. Wait the game to start](/GameFootage/guess.png)
+![Believe in your lucky charm and start guessing the boxes based on their given numbers.](/GameFootage/guess.png)
 
 •	Keeping guessing until you run out of Health.
 
-![Take note of the info displayed. Wait the game to start](/GameFootage/endgame.png)
+![Keeping guessing until you run out of Health.](/GameFootage/endgame.png)
 
