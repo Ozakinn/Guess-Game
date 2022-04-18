@@ -16,8 +16,17 @@ A simple python guessing game using emoji. Find the hidden emoji/object among th
 
 •	Select difficulty of opponent. (👶easy to 🦸 hard)
 
+![Select difficulty of opponent](/GameFootage/difficulty.png)
+
 •	Take note of the info displayed. Wait the game to start.
+
+![Take note of the info displayed. Wait the game to start](/GameFootage/gamestart.png)
 
 •	Believe in your lucky charm and start guessing the boxes based on their given numbers.
 
+![Take note of the info displayed. Wait the game to start](/GameFootage/guess.png)
+
 •	Keeping guessing until you run out of Health.
+
+![Take note of the info displayed. Wait the game to start](/GameFootage/endgame.png)
+
