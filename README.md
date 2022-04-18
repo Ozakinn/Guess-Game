@@ -16,8 +16,6 @@ A simple python guessing game using emoji. Find the hidden emoji/object among th
 
 •	A lucky charm for guessing the boxes.
 
-•	A video and python file are also uploaded during submission.
-
 
 ## How to Use
 
