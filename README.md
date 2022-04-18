@@ -5,7 +5,9 @@
 <h1 align="center">
 Guess Game
 </h1>
-A simple python guessing game using emoji. Find the hidden emoji/object among the boxes. Harder dfficulty means more boxes and less life.
+<p align="center">
+  A simple python guessing game using emoji. Find the hidden emoji/object among the boxes. Harder dfficulty means more boxes and less life.
+</p>
 
 
 ## Instructions
