@@ -19,6 +19,15 @@ Guess Game
 •	A lucky charm for guessing the boxes.
 
 
+## Community
+Please start a GitHub Issue if you have a problem, need assistance, or wish to offer a new feature. If you don't already have an account on this platform, you can set one up. It's completely free. I don't want to be nasty, but if you have a problem, it's possible that another user has the same problem, and your issue can benefit the community. Similarly, your suggestion for a new feature may be useful to other users.
+
+If you'd want to contribute to this project, please leave a star 🌟 and share it with your friends! 😎
+
+I would appreciate it if you could offer me a cup of coffee. ☕💖
+
+<a href="https://www.buymeacoffee.com/Ozaki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## How to Use
 
 •	Select difficulty of opponent. (👶easy to 🦸 hard)
